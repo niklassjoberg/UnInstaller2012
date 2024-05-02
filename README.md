@@ -1,4 +1,4 @@
-# UnInstaller - a Windows util to list and/or execute uninstallation cmd lines
+# UnInstaller - a Windows CMD util to list and/or execute uninstallation cmd lines
 
 Some browsers may find the .exe suspicious. It really isn't, but can harm your computer if used wrong.
 Feel free to inspect source and compile on your own.
