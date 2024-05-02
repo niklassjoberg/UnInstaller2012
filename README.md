@@ -34,4 +34,4 @@ Usage:
   List uninstall information for a GUID
 
  uninstaller.exe -l -r="Arduino.*" -u -p="/S"
- Execute uninstall string for all entries starting with Arduino, replace parameters with /S```
+ Execute uninstall string for all entries starting with Arduino, replace parameters with /S
